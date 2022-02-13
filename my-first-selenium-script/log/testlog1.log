@@ -1,0 +1,190 @@
+2022-02-13 11:13:39,280 [main] INFO ebanking - initialization of driver
+2022-02-13 11:13:50,964 [main] INFO ebanking - driver configuration successful
+2022-02-13 11:14:25,927 [main] INFO AppTest - initialization of driver
+2022-02-13 11:14:37,471 [main] INFO AppTest - driver configuration successful
+2022-02-13 11:15:11,265 [main] INFO AppTest - initialization of driver
+2022-02-13 11:15:22,335 [main] INFO AppTest - driver configuration successful
+2022-02-13 11:20:54,031 [main] INFO AppTest - initialization of driver
+2022-02-13 11:21:05,037 [main] INFO AppTest - driver configuration successful
+2022-02-13 11:22:42,771 [main] INFO AppTest - initialization of driver
+2022-02-13 11:22:54,448 [main] INFO AppTest - driver configuration successful
+2022-02-13 11:24:49,840 [main] INFO AppTest - initialization of driver
+2022-02-13 11:25:01,593 [main] INFO AppTest - driver configuration successful
+2022-02-13 11:27:58,335 [main] INFO AppTest - initialization of driver
+2022-02-13 11:28:09,590 [main] INFO AppTest - driver configuration successful
+2022-02-13 11:29:42,810 [main] INFO AppTest - initialization of driver
+2022-02-13 11:29:54,061 [main] INFO AppTest - driver configuration successful
+2022-02-13 11:36:02,813 [main] INFO AppTest - initialization of driver
+2022-02-13 11:36:14,184 [main] INFO AppTest - driver configuration successful
+2022-02-13 11:37:57,272 [main] INFO AppTest - initialization of driver
+2022-02-13 11:38:08,560 [main] INFO AppTest - driver configuration successful
+2022-02-13 11:38:35,071 [main] INFO AppTest - initialization of driver
+2022-02-13 11:38:46,290 [main] INFO AppTest - driver configuration successful
+2022-02-13 11:45:12,006 [main] INFO AppTest - initialization of driver
+2022-02-13 11:45:22,600 [main] INFO AppTest - driver configuration successful
+2022-02-13 11:46:44,918 [main] INFO AppTest - initialization of driver
+2022-02-13 11:46:56,527 [main] INFO AppTest - driver configuration successful
+2022-02-13 11:47:16,767 [main] INFO AppTest - initialization of driver
+2022-02-13 11:47:26,790 [main] INFO AppTest - driver configuration successful
+2022-02-13 11:48:41,788 [main] INFO AppTest - initialization of driver
+2022-02-13 11:48:52,310 [main] INFO AppTest - driver configuration successful
+2022-02-13 11:49:42,426 [main] INFO AppTest - initialization of driver
+2022-02-13 11:49:52,509 [main] INFO AppTest - driver configuration successful
+2022-02-13 11:59:02,439 [main] INFO AppTest - initialization of driver
+2022-02-13 11:59:12,556 [main] INFO AppTest - driver configuration successful
+2022-02-13 11:59:33,244 [main] INFO AppTest - initialization of driver
+2022-02-13 11:59:42,948 [main] INFO AppTest - driver configuration successful
+2022-02-13 12:01:01,317 [main] INFO AppTest - initialization of driver
+2022-02-13 12:01:11,153 [main] INFO AppTest - driver configuration successful
+2022-02-13 12:03:01,520 [main] INFO AppTest - initialization of driver
+2022-02-13 12:03:11,610 [main] INFO AppTest - driver configuration successful
+2022-02-13 12:03:41,977 [main] INFO AppTest - initialization of driver
+2022-02-13 12:03:51,980 [main] INFO AppTest - driver configuration successful
+2022-02-13 12:04:04,799 [main] INFO AppTest - initialization of driver
+2022-02-13 12:04:14,602 [main] INFO AppTest - driver configuration successful
+2022-02-13 12:07:13,322 [main] INFO AppTest - initialization of driver
+2022-02-13 12:07:23,384 [main] INFO AppTest - driver configuration successful
+2022-02-13 12:08:42,862 [main] INFO AppTest - initialization of driver
+2022-02-13 12:08:52,684 [main] INFO AppTest - driver configuration successful
+2022-02-13 12:09:15,628 [main] INFO AppTest - initialization of driver
+2022-02-13 12:09:25,383 [main] INFO AppTest - driver configuration successful
+2022-02-13 12:15:04,954 [main] INFO AppTest - initialization of driver
+2022-02-13 12:15:14,777 [main] INFO AppTest - driver configuration successful
+2022-02-13 12:15:14,831 [main] INFO AppTest - Initialize the webpage
+2022-02-13 12:15:16,124 [main] INFO AppTest - agree to cookies page
+2022-02-13 12:15:17,359 [main] INFO AppTest - enter the string in text field
+2022-02-13 12:19:22,645 [main] INFO AppTest - initialization of driver
+2022-02-13 12:19:32,775 [main] INFO AppTest - driver configuration successful
+2022-02-13 12:19:32,831 [main] INFO AppTest - Initialize the webpage
+2022-02-13 12:19:33,719 [main] INFO AppTest - agree to cookies page
+2022-02-13 12:19:34,968 [main] INFO AppTest - enter the string in text field
+2022-02-13 12:22:15,754 [main] INFO AppTest - initialization of driver
+2022-02-13 12:22:25,670 [main] INFO AppTest - driver configuration successful
+2022-02-13 12:22:25,715 [main] INFO AppTest - Initialize the webpage
+2022-02-13 12:22:26,879 [main] INFO AppTest - agree to cookies page
+2022-02-13 12:22:28,120 [main] INFO AppTest - enter the string in text field
+2022-02-13 12:26:59,670 [main] INFO AppTest - initialization of driver
+2022-02-13 12:27:09,540 [main] INFO AppTest - driver configuration successful
+2022-02-13 12:27:09,592 [main] INFO AppTest - Initialize the webpage
+2022-02-13 12:27:10,694 [main] INFO AppTest - agree to cookies page
+2022-02-13 12:27:11,947 [main] INFO AppTest - enter the string in text field
+2022-02-13 12:28:59,910 [main] INFO AppTest - initialization of driver
+2022-02-13 12:29:09,988 [main] INFO AppTest - driver configuration successful
+2022-02-13 12:29:10,042 [main] INFO AppTest - Initialize the webpage
+2022-02-13 12:29:10,786 [main] INFO AppTest - agree to cookies page
+2022-02-13 12:29:12,059 [main] INFO AppTest - enter the string in text field
+2022-02-13 12:34:06,036 [main] INFO AppTest - initialization of driver
+2022-02-13 12:34:16,027 [main] INFO AppTest - driver configuration successful
+2022-02-13 12:34:16,078 [main] INFO AppTest - Initialize the webpage
+2022-02-13 12:34:17,283 [main] INFO AppTest - agree to cookies page
+2022-02-13 12:34:18,544 [main] INFO AppTest - enter the string in text field
+2022-02-13 12:36:57,181 [main] INFO AppTest - initialization of driver
+2022-02-13 12:37:07,033 [main] INFO AppTest - driver configuration successful
+2022-02-13 12:37:07,090 [main] INFO AppTest - Initialize the webpage
+2022-02-13 12:37:08,174 [main] INFO AppTest - agree to cookies page
+2022-02-13 12:37:09,414 [main] INFO AppTest - enter the string in text field
+2022-02-13 12:39:40,720 [main] INFO AppTest - initialization of driver
+2022-02-13 12:39:50,351 [main] INFO AppTest - driver configuration successful
+2022-02-13 12:39:50,397 [main] INFO AppTest - Initialize the webpage
+2022-02-13 12:39:51,621 [main] INFO AppTest - agree to cookies page
+2022-02-13 12:39:52,866 [main] INFO AppTest - enter the string in text field
+2022-02-13 12:42:56,877 [main] INFO AppTest - initialization of driver
+2022-02-13 12:43:06,959 [main] INFO AppTest - driver configuration successful
+2022-02-13 12:43:07,001 [main] INFO AppTest - Initialize the webpage
+2022-02-13 12:43:08,224 [main] INFO AppTest - agree to cookies page
+2022-02-13 12:43:09,457 [main] INFO AppTest - enter the string in text field
+2022-02-13 13:03:28,946 [main] INFO AppTest - initialization of driver
+2022-02-13 13:03:39,750 [main] INFO AppTest - driver configuration successful
+2022-02-13 13:03:39,792 [main] INFO AppTest - Initialize the webpage
+2022-02-13 13:03:41,077 [main] INFO AppTest - agree to cookies page
+2022-02-13 13:03:42,318 [main] INFO AppTest - enter the string in text field
+2022-02-13 13:05:00,784 [main] INFO AppTest - initialization of driver
+2022-02-13 13:05:10,705 [main] INFO AppTest - driver configuration successful
+2022-02-13 13:05:10,748 [main] INFO AppTest - Initialize the webpage
+2022-02-13 13:05:11,740 [main] INFO AppTest - agree to cookies page
+2022-02-13 13:05:12,984 [main] INFO AppTest - enter the string in text field
+2022-02-13 13:15:15,278 [main] INFO AppTest - initialization of driver
+2022-02-13 13:15:25,306 [main] INFO AppTest - driver configuration successful
+2022-02-13 13:15:25,353 [main] INFO AppTest - Initialize the webpage
+2022-02-13 13:15:26,371 [main] INFO AppTest - agree to cookies page
+2022-02-13 13:15:27,611 [main] INFO AppTest - enter the string in text field
+2022-02-13 13:15:59,311 [main] INFO AppTest - initialization of driver
+2022-02-13 13:16:09,218 [main] INFO AppTest - driver configuration successful
+2022-02-13 13:16:09,266 [main] INFO AppTest - Initialize the webpage
+2022-02-13 13:16:10,580 [main] INFO AppTest - agree to cookies page
+2022-02-13 13:16:11,815 [main] INFO AppTest - enter the string in text field
+2022-02-13 13:17:58,805 [main] INFO AppTest - initialization of driver
+2022-02-13 13:18:08,932 [main] INFO AppTest - driver configuration successful
+2022-02-13 13:18:08,975 [main] INFO AppTest - Initialize the webpage
+2022-02-13 13:18:09,825 [main] INFO AppTest - agree to cookies page
+2022-02-13 13:18:11,069 [main] INFO AppTest - enter the string in text field
+2022-02-13 13:22:11,799 [main] INFO AppTest - initialization of driver
+2022-02-13 13:22:22,015 [main] INFO AppTest - driver configuration successful
+2022-02-13 13:22:22,057 [main] INFO AppTest - Initialize the webpage
+2022-02-13 13:22:23,208 [main] INFO AppTest - agree to cookies page
+2022-02-13 13:22:24,453 [main] INFO AppTest - enter the string in text field
+2022-02-13 13:28:49,816 [main] INFO AppTest - initialization of driver
+2022-02-13 13:28:59,642 [main] INFO AppTest - driver configuration successful
+2022-02-13 13:28:59,693 [main] INFO AppTest - Initialize the webpage
+2022-02-13 13:29:00,618 [main] INFO AppTest - agree to cookies page
+2022-02-13 13:29:01,865 [main] INFO AppTest - enter the string in text field
+2022-02-13 13:44:34,260 [main] INFO AppTest - initialization of driver
+2022-02-13 13:44:44,286 [main] INFO AppTest - driver configuration successful
+2022-02-13 13:44:44,330 [main] INFO AppTest - Initialize the webpage
+2022-02-13 13:44:45,596 [main] INFO AppTest - agree to cookies page
+2022-02-13 13:44:46,841 [main] INFO AppTest - enter the string in text field
+2022-02-13 13:47:58,022 [main] INFO AppTest - initialization of driver
+2022-02-13 13:48:07,916 [main] INFO AppTest - driver configuration successful
+2022-02-13 13:48:07,960 [main] INFO AppTest - Initialize the webpage
+2022-02-13 13:48:09,074 [main] INFO AppTest - agree to cookies page
+2022-02-13 13:48:10,326 [main] INFO AppTest - enter the string in text field
+2022-02-13 13:56:48,368 [main] INFO AppTest - initialization of driver
+2022-02-13 13:56:58,291 [main] INFO AppTest - driver configuration successful
+2022-02-13 13:56:58,336 [main] INFO AppTest - Initialize the webpage
+2022-02-13 13:56:59,510 [main] INFO AppTest - agree to cookies page
+2022-02-13 13:57:00,745 [main] INFO AppTest - enter the string in text field
+2022-02-13 14:00:20,306 [main] INFO AppTest - initialization of driver
+2022-02-13 14:00:30,267 [main] INFO AppTest - driver configuration successful
+2022-02-13 14:00:30,312 [main] INFO AppTest - Initialize the webpage
+2022-02-13 14:00:31,370 [main] INFO AppTest - agree to cookies page
+2022-02-13 14:00:32,621 [main] INFO AppTest - enter the string in text field
+2022-02-13 14:01:35,078 [main] INFO AppTest - initialization of driver
+2022-02-13 14:01:44,849 [main] INFO AppTest - driver configuration successful
+2022-02-13 14:01:44,895 [main] INFO AppTest - Initialize the webpage
+2022-02-13 14:01:45,841 [main] INFO AppTest - agree to cookies page
+2022-02-13 14:01:47,085 [main] INFO AppTest - enter the string in text field
+2022-02-13 14:03:33,193 [main] INFO AppTest - initialization of driver
+2022-02-13 14:03:43,679 [main] INFO AppTest - driver configuration successful
+2022-02-13 14:03:43,731 [main] INFO AppTest - Initialize the webpage
+2022-02-13 14:03:44,833 [main] INFO AppTest - agree to cookies page
+2022-02-13 14:03:46,069 [main] INFO AppTest - enter the string in text field
+2022-02-13 14:05:36,412 [main] INFO AppTest - initialization of driver
+2022-02-13 14:05:46,401 [main] INFO AppTest - driver configuration successful
+2022-02-13 14:05:46,444 [main] INFO AppTest - Initialize the webpage
+2022-02-13 14:05:47,632 [main] INFO AppTest - agree to cookies page
+2022-02-13 14:05:48,878 [main] INFO AppTest - enter the string in text field
+2022-02-13 14:12:51,246 [main] INFO AppTest - initialization of driver
+2022-02-13 14:13:02,854 [main] INFO AppTest - driver configuration successful
+2022-02-13 14:13:02,910 [main] INFO AppTest - Initialize the webpage
+2022-02-13 14:13:04,521 [main] INFO AppTest - agree to cookies page
+2022-02-13 14:13:05,783 [main] INFO AppTest - enter the string in text field
+2022-02-13 14:14:38,956 [main] INFO AppTest - initialization of driver
+2022-02-13 14:14:49,948 [main] INFO AppTest - driver configuration successful
+2022-02-13 14:14:50,012 [main] INFO AppTest - Initialize the webpage
+2022-02-13 14:14:51,491 [main] INFO AppTest - agree to cookies page
+2022-02-13 14:14:52,762 [main] INFO AppTest - enter the string in text field
+2022-02-13 14:34:08,145 [main] INFO AppTest - initialization of driver
+2022-02-13 14:34:18,308 [main] INFO AppTest - driver configuration successful
+2022-02-13 14:34:18,359 [main] INFO AppTest - Initialize the webpage
+2022-02-13 14:34:19,380 [main] INFO AppTest - agree to cookies page
+2022-02-13 14:34:20,652 [main] INFO AppTest - enter the string in text field
+2022-02-13 14:35:50,053 [main] INFO AppTest - initialization of driver
+2022-02-13 14:36:00,381 [main] INFO AppTest - driver configuration successful
+2022-02-13 14:36:00,423 [main] INFO AppTest - Initialize the webpage
+2022-02-13 14:36:01,610 [main] INFO AppTest - agree to cookies page
+2022-02-13 14:36:02,846 [main] INFO AppTest - enter the string in text field
+2022-02-13 14:38:52,343 [main] INFO AppTest - initialization of driver
+2022-02-13 14:39:02,600 [main] INFO AppTest - driver configuration successful
+2022-02-13 14:39:02,645 [main] INFO AppTest - Initialize the webpage
+2022-02-13 14:39:03,494 [main] INFO AppTest - agree to cookies page
+2022-02-13 14:39:04,744 [main] INFO AppTest - enter the string in text field

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-13T13:34:07Z" name="Default suite" finished-at="2022-02-13T13:34:22Z" duration-ms="14759">
+    <groups>
+    </groups>
+    <test started-at="2022-02-13T13:34:07Z" name="Default test" finished-at="2022-02-13T13:34:22Z" duration-ms="14759">
+      <class name="com.selenium.example.my_first_selenium_script.AppTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.example.my_first_selenium_script.AppTest@934b6cb]" started-at="2022-02-13T13:34:07Z" name="setup" finished-at="2022-02-13T13:34:18Z" duration-ms="10385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testEmailCredentials()[pri:0, instance:com.selenium.example.my_first_selenium_script.AppTest@934b6cb]" started-at="2022-02-13T13:34:18Z" name="testEmailCredentials" finished-at="2022-02-13T13:34:21Z" duration-ms="3504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmailCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.selenium.example.my_first_selenium_script.AppTest@934b6cb]" started-at="2022-02-13T13:34:21Z" name="tearDown" finished-at="2022-02-13T13:34:22Z" duration-ms="820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.selenium.example.my_first_selenium_script.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

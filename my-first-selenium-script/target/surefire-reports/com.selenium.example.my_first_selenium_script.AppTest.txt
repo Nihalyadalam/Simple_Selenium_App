@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.selenium.example.my_first_selenium_script.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.958 sec
